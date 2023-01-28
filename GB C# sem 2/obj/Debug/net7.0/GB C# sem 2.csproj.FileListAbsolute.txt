@@ -1,0 +1,15 @@
+D:\JavaScrypt\GB C# sem 2\bin\Debug\net7.0\GB C# sem 2.exe
+D:\JavaScrypt\GB C# sem 2\bin\Debug\net7.0\GB C# sem 2.deps.json
+D:\JavaScrypt\GB C# sem 2\bin\Debug\net7.0\GB C# sem 2.runtimeconfig.json
+D:\JavaScrypt\GB C# sem 2\bin\Debug\net7.0\GB C# sem 2.dll
+D:\JavaScrypt\GB C# sem 2\bin\Debug\net7.0\GB C# sem 2.pdb
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.csproj.AssemblyReference.cache
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.AssemblyInfoInputs.cache
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.AssemblyInfo.cs
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.csproj.CoreCompileInputs.cache
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.dll
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\refint\GB C# sem 2.dll
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.pdb
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\GB C# sem 2.genruntimeconfig.cache
+D:\JavaScrypt\GB C# sem 2\obj\Debug\net7.0\ref\GB C# sem 2.dll
