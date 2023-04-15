@@ -1,0 +1,30 @@
+D:\JavaScrypt\GB C# sem 1\Sem 1\bin\Debug\net7.0\Sem 1.exe
+D:\JavaScrypt\GB C# sem 1\Sem 1\bin\Debug\net7.0\Sem 1.deps.json
+D:\JavaScrypt\GB C# sem 1\Sem 1\bin\Debug\net7.0\Sem 1.runtimeconfig.json
+D:\JavaScrypt\GB C# sem 1\Sem 1\bin\Debug\net7.0\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\Sem 1\bin\Debug\net7.0\Sem 1.pdb
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.csproj.AssemblyReference.cache
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.AssemblyInfoInputs.cache
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.AssemblyInfo.cs
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.csproj.CoreCompileInputs.cache
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\refint\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.pdb
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\Sem 1.genruntimeconfig.cache
+D:\JavaScrypt\GB C# sem 1\Sem 1\obj\Debug\net7.0\ref\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\bin\Debug\net7.0\Sem 1.exe
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\bin\Debug\net7.0\Sem 1.deps.json
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\bin\Debug\net7.0\Sem 1.runtimeconfig.json
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\bin\Debug\net7.0\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\bin\Debug\net7.0\Sem 1.pdb
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.csproj.AssemblyReference.cache
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.AssemblyInfoInputs.cache
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.AssemblyInfo.cs
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.csproj.CoreCompileInputs.cache
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\refint\Sem 1.dll
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.pdb
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\Sem 1.genruntimeconfig.cache
+D:\JavaScrypt\GB C# sem 1\C# SEM1 HW\obj\Debug\net7.0\ref\Sem 1.dll
